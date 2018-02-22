@@ -1,0 +1,29 @@
+html {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: cemter;
+    text-align: center;
+    font-family: Futura, Arial, sans-serif;
+}
+#name {
+    font-size: 20px;
+}
+body {
+    background-color: rgb(68, 54, 42);
+    color: lightgrey;
+}
+.wrapper {
+    padding: 20px;
+    max-width: 350px;
+    background: rgba(68, 54, 42, 0.95);
+    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#input {
+    color: white;
+    background-color: rgb(68, 54, 42);
+}
+#submit {
+    color: white;
+    background-color: rgb(68, 54, 42);
+}
